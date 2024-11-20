@@ -154,13 +154,13 @@
     position: relative;
     background-size: cover;
     height: 500px;
-    background-image: url(media/lucky-baskhar-et00386123-1707118235\ \(1\).jpg);
+    background-image: url(../static/image/lucky-baskhar-et00386123-1707118235\ \(1\).jpg);
 }
 #ma{
     position: relative;
     background-size: cover;
     height: 500px;
-    background-image: url(media/bv2.webp);
+    background-image: url(../static/image/bv2.webp);
 
 }
 #main1::before{

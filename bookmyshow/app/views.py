@@ -10,4 +10,4 @@ def movie(req):
     return render(req,"movie.html")
 
 def LuckyBaskhar(req):
-    return render("LuckyBaskhar.html")
+    return render(req,"LuckyBaskhar.html")
